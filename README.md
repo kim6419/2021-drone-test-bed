@@ -1,6 +1,6 @@
 # 2021-drone-test-bed
 
-https://www.youtube.com/watch?v=f5MdVGNrHpI&t=63s
+<https://www.youtube.com/watch?v=f5MdVGNrHpI&t=63s>드론테스트배드 유튜브 영상</a>
 
 ◦ 4차 산업혁명 시대에서 가장 주목받는 산업 분야는 드론 시장은 2026년 90조원 까지 성장할 것으로 전망되고 있다. 
 현재 취미, 레저 분야의 경우 드론 전문 기업인 DJI가 시장을 주도하고 있고, 아마존과 같은 글로벌 유통기업은 드론을 활용한 배송 서비스에 박차를 가하고 있다. 
